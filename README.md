@@ -90,6 +90,9 @@ F3521232,中国医科大学附属盛京医院,1,J1235432,肾癌,2018/04/21,2018/
     ○1可完成报销过程的各项功能。  
     ○2按照报销流程，自上而下操作完成报销过程。  
     ○3使用了comboBox，更加方便用户操作，更人性化。  
-<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p13.png" width="400"></div>   
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p14.png" width="400"></div>   
+  
+5、  报错提示  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p13.png" width="400"></div> 
        
  
