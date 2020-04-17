@@ -25,13 +25,13 @@
 药品信息增加：  
  <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p5.png" width="400"></div>  
 药品信息删除：  
- <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p6.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p6.png" width="400"></div>  
 药品信息修改：  
- <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p7.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p7.png" width="400"></div>  
 药品信息查找：  
- <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p8.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p8.png" width="400"></div>  
 2、打印结算单据：  
-  <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p9.png" width="400"></div>   
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p9.png" width="400"></div>   
     
 #### 持久化储存格式：  
 药品信息.txt:  
@@ -67,29 +67,29 @@ F3521232,中国医科大学附属盛京医院,1,J1235432,肾癌,2018/04/21,2018/
 #费用总额,报销金额,自费金额,乙类项目自费金额,特检特治自费金额  
   
 #### 图形界面化：  
-1、	登陆界面：
-    ○1添加“医保logo”图片，使界面生动美观。
-    ○2添加“退出按钮”，点击“退出”时该界面关闭。
-    ○3背景颜色、字体、文本框颜色等进行了个性化设置，更加美观。
-    ○4对密码等保密信息设置为“不可见”。
-    ○5输入错误时，界面会出现相应提示。
-  <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p10.png" width="400"></div>   
+1、	登陆界面：  
+    ○1添加“医保logo”图片，使界面生动美观。  
+    ○2添加“退出按钮”，点击“退出”时该界面关闭。  
+    ○3背景颜色、字体、文本框颜色等进行了个性化设置，更加美观。  
+    ○4对密码等保密信息设置为“不可见”。  
+    ○5输入错误时，界面会出现相应提示。  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p10.png" width="400"></div>   
    
-2、	医保报销系统主菜单：  
-    ○1点击各个按钮可跳转到相应界面
-    ○2点击“返回”可返回登陆界面 
-   <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p11.png" width="400"></div>   
+2、	医保报销系统主菜单：    
+    ○1点击各个按钮可跳转到相应界面  
+    ○2点击“返回”可返回登陆界面   
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p11.png" width="400"></div>   
    
-3、	信息维护界面（以“药品信息维护”为例）：  
-    ○1可实现增删改查功能。
-    ○2对于用于显示查找结果的文本框，设置了“inditable”使用户无法输入。
-    ○3输入对应信息后按“确定”可执行相应操作，输入错误会有报错框跳出。
-    <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p12.png" width="400"></div>   
+3、	信息维护界面（以“药品信息维护”为例）：    
+    ○1可实现增删改查功能。  
+    ○2对于用于显示查找结果的文本框，设置了“inditable”使用户无法输入。  
+    ○3输入对应信息后按“确定”可执行相应操作，输入错误会有报错框跳出。  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p12.png" width="400"></div>   
     
-4、	医保中心报销界面
-    ○1可完成报销过程的各项功能。
-    ○2按照报销流程，自上而下操作完成报销过程。
-    ○3使用了comboBox，更加方便用户操作，更人性化。
-       <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p13.png" width="400"></div>   
+4、	医保中心报销界面  
+    ○1可完成报销过程的各项功能。  
+    ○2按照报销流程，自上而下操作完成报销过程。  
+    ○3使用了comboBox，更加方便用户操作，更人性化。  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p13.png" width="400"></div>   
        
  
