@@ -15,7 +15,7 @@
 1、总体：  
 <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p1.png" width="400"></div>  
 2、基本信息维护模块（以病种信息为例）：  
-<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p2.png" width="400"></div>  
+![]("https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p2.png)
 3、审批模块（以人员就诊机构审批为例）：  
 <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/tree/master/READMEPhoto/p3.png" width="400"></div>  
 4、中心报销模块（部分）：  
