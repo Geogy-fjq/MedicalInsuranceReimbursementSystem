@@ -13,23 +13,23 @@
 ### 系统设计  
 #### 类图  
 1、总体：  
-<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p1.png" width="400"></div>    
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p1.png" width="800"></div>    
 2、基本信息维护模块（以病种信息为例）：  
 <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p2.png" width="400"></div>  
 3、审批模块（以人员就诊机构审批为例）：  
-<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p3.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p3.png" width="800"></div>  
 4、中心报销模块（部分）：  
-<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p4.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p4.png" width="800"></div>  
 时序图：  
 1、实现信息的增删改查（以药品信息为例）：  
 药品信息增加：  
- <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p5.png" width="400"></div>  
+ <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p5.png" width="800"></div>  
 药品信息删除：  
-<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p6.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p6.png" width="800"></div>  
 药品信息修改：  
-<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p7.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p7.png" width="800"></div>  
 药品信息查找：  
-<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p8.png" width="400"></div>  
+<div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p8.png" width="800"></div>  
 2、打印结算单据：  
 <div align=center><img src="https://github.com/Geogy-fjq/MedicalInsuranceReimbursementSystem/blob/master/READMEPhoto/p9.png" width="400"></div>   
     
